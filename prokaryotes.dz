@@ -1,0 +1,62 @@
+*use prelude.dz
+
+//example notes file from intro bio course taken at Rutgers
+
+h prokaryotes
+
+lsdef vocabulary
+	peptidoglycan -> carb polymer
+	gram negative bacteria -> stain purple
+	gram positive -> stain pink
+	lps -> lipopolysaccharide outer layer
+	motility -> movement
+	taxis -> directed movement in response to stimulus
+
+exp general characteristics
+	1- first forms of life
+	2- smaller
+	3- dominant form of life
+	exp your mom
+		oh yeah baby hehe
+	4- simpler
+	5- found in many extreme environments
+	6- lack membrane bound organelles
+	7- many infoldings of plasma membrane
+
+exp cell wall roles
+	present in almost all prokaryotes
+	maintain shape
+	protect cell
+	prevent bursting
+
+tabl cell walls:: material
+	eubacteria:: peptidoglycan
+	eukaryotes:: chitin, cellulose
+	archaea:: different materials
+
+tabl flagella:: plasma membrane,, size,, motion
+	eubacteria:: not covered,, 1/10th diameter of eukaryotic,, spins
+	eukaryotic:: covered by PM, large, waggles side to lipopolysaccharide
+
+exp rapid reproduction
+ 	low chance of single mutation
+	massive number of mutations drive population diversification
+	high population size and rapid reproduction
+	perfect grounds for natural selection
+
+tabl genetic recombination methods:: process
+	transformation:: acquire plasmids from environment
+	transduction:: acquire bacterial genes incorporated into a phage
+	conjugation:: swap through sex pilus
+
+ls types of archaea
+	extremophiles
+	thermophiles
+	halophiles
+	methanogens
+
+tabl domains of life:: dna storage,, membrane bound organelles,, chromosomes,, cell walls,, temperatures
+	eubacteria:: nucleoid region,, none,, circular,, peptidoglycan,, normal
+	archaea:: nucleoid region,, none,, circular,, different,, high
+	eukaryotes:: nucleus,, yes,, linear,, chitin/cellulose,, normal
+	viruses:: capsid,, no,, linear, circular, segmented [[some math up in here]],, no,, n/a

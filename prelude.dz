@@ -1,0 +1,31 @@
+// Definitions of diazo's standard types
+
+// Singletons
+*type l => c 			// A label
+*type h => c 			// A header
+*type y => l			// A reason for something
+
+// Pairs
+*type def => l c 		// Definition as term, definition
+*type sntx => l c		// Definition alias for syntax
+*type stat => c..2 		// A statistic, usually number, meaning of number
+*type invp => c..2 		// Two inversely proportional concepts
+*type prop => c..2 		// Two proportionally related concepts
+*type vs => c..2 		// Two very different, contrasting concepts
+
+// Triples
+*type trip => l c c		// Like a pair, but with three items (amino acids)
+*type symb => l c c		// Alias for a symbol in an equation
+
+// Collections
+*type exp => l e any 		// An explanation, comprised of any number of supporting details
+*type equ => l e symb		// Explanation alias for mathematical equations
+*type aka => e c		// A list of alternatives/synonyms
+*type ls => l e c 		// A list, with elements of 1 String each
+*type lsdef => l e def 		// A list of definitions
+*type lstat => l e stat		// A list of statistics
+*type lstrip => l e trip	// A list of triples (will eventually improve how lists work)
+*type seq => l e c 		// A series, with elements of 1 String each
+
+// Tables
+*type tabl => l c..n e c c..n	// A table, with n columns, and elements of rows with a title and n Strings each
